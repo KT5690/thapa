@@ -1,7 +1,6 @@
-good morning
-its 2025/23/07
-
-
+I am practicing Git.
+I love learning new tools.
+This is my second commit.
 
 
 
